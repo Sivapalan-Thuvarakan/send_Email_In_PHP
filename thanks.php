@@ -8,6 +8,7 @@
     <div class="container mt-5">
     <h1>Thank you <?php echo $_GET['fname']; ?></h1>
     <p>Thank you for purchasing.see you later</p>
+    <p>Power Gym</p>
     </div>
 </body>
 </html>
